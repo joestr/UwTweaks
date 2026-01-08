@@ -87,7 +87,7 @@ public class UwTweaksClient implements ClientModInitializer {
 					return;
 				}
 
-				if (state.isChatOpened() && !state.isReceivedAnotherWhisperWhileDraftingResponse()) {
+				if (state.isChatOpened()) {
 					state.setReceivedAnotherWhisperWhileDraftingResponse(true);
 					log.info("Received a whisper while writing response, redirecting reply to " + state.getLastWhisperPartner());
 				} else {
