@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "at.priv.joestr.uwtweaks.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"ClientChatScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
