@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [1.0.3]
+### Added
 - Update to Minecraft version 26.1
 - Update to Fabric API version 0.144.3+26.1
 - Update `build.gradle` to reflect necessary changes for 26.1
@@ -28,7 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Custom behaviour for replying to private messages
 
 [Unreleased]: https://github.com/joestr/UwTweaks/compare/v1.0.3...HEAD
-[1.0.2]: https://github.com/joestr/UwTweaks/releases/tag/v1.0.2...v1.0.3
+[1.0.3]: https://github.com/joestr/UwTweaks/releases/tag/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/joestr/UwTweaks/releases/tag/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/joestr/UwTweaks/releases/tag/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/joestr/UwTweaks/releases/tag/v1.0.0
